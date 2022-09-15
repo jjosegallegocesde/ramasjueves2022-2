@@ -1,4 +1,5 @@
 #Integrantes:
+print("Juan Pablo Moná Quintana---Desarrollador Junior")
 print("Juan Jose Gallego---Vice JR")
 print("Daniel Mariaca Uribe---Desarrollador JR")
 
