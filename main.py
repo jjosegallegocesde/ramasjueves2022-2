@@ -1,2 +1,2 @@
 #Integrantes:
-print("Juan Jose Gallego---Vice JR")
+print("Juan Pablo Moná Quintana---Desarrollador Junior")
